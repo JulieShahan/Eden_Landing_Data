@@ -1,0 +1,39 @@
+Variable name,Description ,Units 
+decday,decimal days since pivot year 2018,n/a
+DOY,Day of the year,n/a
+YEAR,year (whole numbers),n/a
+time,decimal hour of day,n/a
+Mdate_met,Date vector in Matlab datenumber format,n/a
+YSI_Temp,YSI_TempC,YSI sonde water temp
+YSI_SpCond_mS,YSI sonde Specific conductivity,mS cm-1
+YSI_Sal_ppt,YSI sonde salinity,ppt
+YSI_Turb_NTU,YSI sonde turbidity,NTU
+YSI_ODOsat_percent,YSI sonde dissolved oxygen,%
+YSI_pH,YSI Sonde pH,n/a
+PRECIP,Precipitation,mm
+LeafWetness_mV,Leaf wetness,mV
+PAR,incoming Photosynthetically active radiation,umol m-2 s-1
+Rg,incoming shortwave radiation,W m-2
+Rg_out,outgoing shortwave radiation,W m-2
+Rlong_in,incoming longwave radiation,W m-2
+Rlong_out,outgoing longwave radiation,W m-2
+RNET,net radiation above canopy,W m-2
+G1,Soil heat flux,W m-2
+TS_25cm,Soil temperature at 25cm depth,degree Celsius
+TS_15cm,Soil temperature at 15cm depth,degree Celsius
+TS_5cm,Soil temperature at 5cm depth,degree Celsius
+TS_0cm,Soil temperature at 0cm depth,degree Celsius
+TW_5cm,Water temperature at 5cm depth,degree Celsius
+TW_10cm,Water temperature at 10cm depth,degree Celsius
+TW_20cm,Water temperature at 20cm depth,degree Celsius
+TW_30cm,Water temperature at 30cm depth,degree Celsius
+WT,Water table depth,cm
+VPD,Vapor pressure deficit,Kpa
+rhoa,dry air density,Kg/m3
+rhov,water vapor density,Kg/m3
+rho,moist air density,Kg/m3
+tidal_diff,change in water table depth from previous half hour ,cm
+season_year,factor of season and year ,n/a
+TA,Air temperature,degree Celsius
+PA,Atmospheric pressure,kPa
+RH,Relative humidity,%
